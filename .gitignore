@@ -1,0 +1,12 @@
+/build
+/.sconsign.dblite
+/rtconfig.pyc
+/rtthead_stm32f103ve.axf
+/rtthead_stm32f103ve.bin
+/rtthead_stm32f103ve.map
+/project.ewp
+/project.eww
+/project.Uv2
+/template.ewp
+/template.Uv2
+/template.uvproj
